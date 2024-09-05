@@ -1,0 +1,75 @@
+[
+    {
+        "title" : "Why We Use <br> Element",
+        "answer_1" : "To Make Text Bold",
+        "answer_2" : "To Make Text italic",
+        "answer_3" : "To Add breakLine",
+        "answer_4" : "To Add Horisontal Line",
+        "right_answer" : "To Add breakLine"
+    },
+    {
+        "title" : "Is <img> Element Has Attribute href",
+        "answer_1" : "Yes",
+        "answer_2" : "No its for Anchor Tag <a>",
+        "answer_3" : "All Elements Has this Attribute ",
+        "answer_4" : "Answer 1 And 3 is right",
+        "right_answer" : "No its for Anchor Tag <a>"
+    },
+    {
+        "title" : "How can we make element text bold",
+        "answer_1" : "Putting it inside <b> tag",
+        "answer_2" : "Putting it inside <strong> tag",
+        "answer_3" : "Customize it with font-weight property in css",
+        "answer_4" : "All answers is right",
+        "right_answer" : "All answers is right"
+    }, 
+    {
+        "title" : "Why We Use <hr> Element",
+        "answer_1" : "To horizontal Line",
+        "answer_2" : "To vertical Line",
+        "answer_3" : "To Make Text italic",
+        "answer_4" : "To Make Text Bold",
+        "right_answer" : "To horizontal Line"
+    },
+    {
+        "title" : "Why We Use <i> Element",
+        "answer_1" : "To horizontal Line",
+        "answer_2" : "To vertical Line",
+        "answer_3" : "To Make Text italic",
+        "answer_4" : "To Make Text Bold",
+        "right_answer" : "To Make Text italic"
+    },
+    {
+        "title" : "Why We Use <div> Element",
+        "answer_1" : "To horizontal Line",
+        "answer_2" : "To vertical Line",
+        "answer_3" : "To Make Text italic",
+        "answer_4" : "To Be Container",
+        "right_answer" : "To Be Container"
+    },
+    {
+        "title" : "Why We Use <ul> Element",
+        "answer_1" : "To UnOrderd List",
+        "answer_2" : "To vertical Line",
+        "answer_3" : "To Make Text italic",
+        "answer_4" : "To Be Container",
+        "right_answer" : "To UnOrderd List"
+    },
+    {
+        "title" : "Why We Use <ol> Element",
+        "answer_1" : "To vertical Line",
+        "answer_2" : "To Orderd List",
+        "answer_3" : "To Make Text italic",
+        "answer_4" : "To Be Container",
+        "right_answer" : "To Orderd List"
+    },
+    {
+        "title" : "Why We Use <table> Element",
+        "answer_1" : "To Orderd List",
+        "answer_2" : "To vertical Line",
+        "answer_3" : "To Make Text italic",
+        "answer_4" : "To Display Data",
+        "right_answer" : "To Display Data"
+    }
+
+]
